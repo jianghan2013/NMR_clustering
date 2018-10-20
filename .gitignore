@@ -2,7 +2,8 @@
 *
 # But not these files...
 !.gitignore
-!*.IPYNB    
+!*.IPYNB   
+!*.py 
 !data/*.txt
 # ...even if they are in subdirectories
 !*/
